@@ -161,4 +161,4 @@ The video will demonstrate:
 	Updating a student's email address and verifying the change in pgAdmin 4.
 	Deleting a student record and verifying its removal in pgAdmin 4.
 
-Video Link: [https://youtu.be/6DX2jREaYdc](url)
+Video Link: https://youtu.be/6DX2jREaYdc
